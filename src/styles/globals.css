@@ -73,11 +73,7 @@ align-items: center;
 
 
 .quote-container input{
-  width: 15rem;
+  width: 12rem;
 }
 
-.display-container h2{
-   background: lightblue;
-   border-radius: 100%;
-   padding: 2rem 1rem;
-  }
+
